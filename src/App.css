@@ -123,6 +123,10 @@ span.post-id {
     align-self: flex-end;
 }
 
+span.post-user {
+    word-break: break-all;
+}
+
 p.post-content {
     border-radius: 0.5rem;
     background-color: #36393a;
